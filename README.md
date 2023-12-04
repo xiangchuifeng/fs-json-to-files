@@ -1,4 +1,7 @@
 # fs-json-to-files
+
+![](/images/tool-icon.png)  
+
 use it, you can create you project folders by folder json data, width any you template content;
 
 ## More specifically，this is a tool, generate your project folders,keep you folder structure, fill template content your configured;  
@@ -32,6 +35,10 @@ genFilesByJsonData(temps,fileJsonData);
 // instead of manually generating them one by one
 
 ```
+
+![](/images/generated-folders.png)  
+![](/images/generated-temp.png)  
+
 ### his directory will be the current directory where your node command is executed
 ```js
   node example.js
