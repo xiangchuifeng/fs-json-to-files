@@ -1,6 +1,6 @@
 # fs-json-to-files
 
-<img src="/images/tool-icon.png" width="400px" style="margin:0 auto;" />
+<img src="/images/tool-icon.png" width="400px" style="margin-left:200px;" />
 
 use it, you can create you project folders by folder json data, width any you template content;
 

@@ -1,0 +1,38 @@
+{
+  "name": "fs-json-to-files",
+  "version": "1.0.0",
+  "main": "./lib/genFilesByData.js",
+  "type": "module",
+  "directories": {
+    "example": "example",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "node ./example/genFileExample.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiangchuifeng/fs-json-to-files.git"
+  },
+  "keywords": [
+    "fs-extra",
+    "jsonfile",
+    "fs-json-to-files",
+    "write",
+    "json",
+    "file",
+    "mkdir",
+    "fs",
+    "extra",
+    "node-",
+    "fs-"
+
+  ],
+  "author": "xiangchuifeng",
+  "description": "fs-extra jsonfile fs-json-to-files  Generate the corresponding file directory and file content based on the JSON configuration、 根据配置json生成对应的文件目录以及文件内容，",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xiangchuifeng/fs-json-to-files/issues"
+  },
+  "homepage": "https://github.com/xiangchuifeng/fs-json-to-files#readme"
+}
