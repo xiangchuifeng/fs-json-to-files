@@ -6,7 +6,7 @@
 
 use it, you can create you project folders by folder json data, width any you template content;
 
-![v](https://img.shields.io/badge/fs-json-to-files-v1.0.1-brightgreen)
+![v](https://img.shields.io/badge/fs--json--to--files-v1.0.2-brightgreen)
 
 ## More specifically，this is a tool, generate your project folders,keep you folder structure, fill template content your configured;
 
