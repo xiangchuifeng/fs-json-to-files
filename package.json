@@ -1,6 +1,6 @@
 {
   "name": "fs-json-to-files",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "./lib/genFilesByData.js",
   "type": "module",
   "directories": {
