@@ -8,9 +8,11 @@ use it, you can create you project folders by folder json data, width any you te
 
 ![v](https://img.shields.io/badge/fs--json--to--files-v1.0.2-brightgreen)
 
-#### Installation
----
-> npm install fs-json-to-files
+
+Installation
+------------
+
+    npm install fs-json-to-files
 
 #### More specifically，this is a tool, generate your project folders,keep you folder structure, fill template content your configured;
 
